@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     handleClick() {
-      console.log("hey hotdog man");
+      this.$emit("btn-click");
     },
   },
 };
