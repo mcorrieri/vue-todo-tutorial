@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Praise the Dark Overlords",
       "day": "April 23rd at 6:40pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
